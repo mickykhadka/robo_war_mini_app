@@ -1,0 +1,12 @@
+.Robodeck-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.Robodeck-win {
+  color: green;
+}
+.Robodeck-loss {
+  color: red;
+}
